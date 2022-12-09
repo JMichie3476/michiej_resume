@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Jacob Michie's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jacob Michie
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
