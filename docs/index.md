@@ -28,14 +28,13 @@ A local research project that analyses positron annihilation along prepared samp
 
 ## Skills
 
-•	3-d Modeling: Cad 3-D
-•	Advanced lab skills: Data collection and analysis programs
-•	Public speaking
-
-•	Oscilloscope
-•	Mathematica
-•	LabVIEW
-•	Microsoft office
+- •	3-d Modeling: Cad 3-D
+- •	Advanced lab skills: Data collection and analysis programs
+- •	Public speaking
+- •	Oscilloscope
+- •	Mathematica
+- •	LabVIEW
+- •	Microsoft office
  
 References available upon request
 
