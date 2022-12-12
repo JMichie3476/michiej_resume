@@ -4,71 +4,40 @@ title: Jacob Michie's Resume
 ---
 # Jacob Michie
 
+- 11408 W 166th St. / Overland Park, KS / 66212 / 913-219-1421 kings3476@gmail.com
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
+__Bachelor of Science Physics__ (Expected Graduation December 2023)
+- Brigham Young University Idaho (BYU-Idaho) : Emphasis: Computational
 
-`Expected 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Experience
 
-- 4.0 Major GPA
+__Aerospace & Engineering 21st century program__ 
+High school training program that focused on computational ability Scientific and engineering-based mathematics such as specified chemistry, physics, and mathematic courses.
 
+__Training and experience in the following programming languages and tools:__
+- •	C++ with object-oriented programming
+- •	Python3 for physics-based applications
+- •	Cad 2-d and 3-d training: 2d and 3d modeling Cad software, including hand-written and cad produced floor planning, 3-d modeling of fully assembled mechanisms and their individual components.
 
-## Related Experience
+__Local research member- Position Annihilation Spectroscopy Project__
+A local research project that analyses positron annihilation along prepared samples (typically copper) through calculation of the gamma ray byproducts. Utilizing liquid Nitrogen cooled detection tools and programs made specially for the mathematics.
 
-### Internships
+## Skills
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+•	3-d Modeling: Cad 3-D
+•	Advanced lab skills: Data collection and analysis programs
+•	Public speaking
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+•	Oscilloscope
+•	Mathematica
+•	LabVIEW
+•	Microsoft office
+ 
+References available upon request
 
 
 <!-- ### Footer
